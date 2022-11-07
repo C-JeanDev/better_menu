@@ -10,7 +10,7 @@ pip install better_menu
 
 ## Get Started
 #### For an example of the final output check
-[here](https://github.com/C-JeanDev/better_menu)
+![img](menu.png)
 
 ### The menu constructor 
 the `Menu` constructor takes in `1 argument (and other optionals 2)` : a menu dictionary that has the voice and a function that will be executed if the voice is chosen
