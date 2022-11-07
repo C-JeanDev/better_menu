@@ -76,4 +76,4 @@ menu.subtitle('Subitle', color='blue')
 menu.init()
 ```
 
-[Better Menu v1.0.0](https://github.com/C-JeanDev/better_menu)
+[Better Menu v1.0.13](https://github.com/C-JeanDev/better_menu)
