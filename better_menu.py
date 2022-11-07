@@ -22,13 +22,13 @@ class menu:
         self.color = color
         self.ind = ind+' '
 
-    def __clear(self):
+    def __clear(self) -> None:
         if plat == 'Windows':
             os.system('cls')
         else:
             os.system('clear')
 
-    def __print_menu(self, keys):
+    def __print_menu(self, keys) -> None:
         for i in keys:
             if self.ind in i:
                 print(i, color=self.color, format='bold')
@@ -36,7 +36,7 @@ class menu:
                 spazi = ' '*(len(self.ind)-1)
                 print(f'{spazi} {i}', format='bold')
 
-    def start(self):
+    def menu(self) -> int:
         self.__clear()
         index: int = 0
         keys = list(self.menu.keys())
