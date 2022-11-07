@@ -9,8 +9,8 @@ pip install better_menu
 
 
 ## Get Started
-#### This is an example of a final output
-![image](menu.png)
+#### For an example of the final output check
+[here](https://github.com/C-JeanDev/better_menu)
 
 ### The menu constructor 
 the `Menu` constructor takes in `1 argument (and other optionals 2)` : a menu dictionary that has the voice and a function that will be executed if the voice is chosen
@@ -24,7 +24,7 @@ m = {
 Now pass the menu to the constructor
 
 ```python
-from better_menu import Menu
+from better_menu.menu import Menu
 
 m = {
   '1. Insert User': insert_user,
@@ -39,7 +39,7 @@ menu.init()
 You can add a title and a subtitle that will be printed within the menu
 
 ```python
-from better_menu import Menu
+from better_menu.menu import Menu
 
 m = {
   '1. Insert User': insert_user,
@@ -58,7 +58,7 @@ menu.init()
 `Color (color)`: indicate the color of the title or subtitle or of the selcted voice if passed to the menu constructor
 
 ```python
-from better_menu import Menu
+from better_menu.menu import Menu
 
 m = {
   '1. Insert User': insert_user,
