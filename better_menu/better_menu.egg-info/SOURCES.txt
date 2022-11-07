@@ -1,0 +1,8 @@
+setup.py
+better_menu/__init__.py
+better_menu/menu.py
+better_menu.egg-info/PKG-INFO
+better_menu.egg-info/SOURCES.txt
+better_menu.egg-info/dependency_links.txt
+better_menu.egg-info/requires.txt
+better_menu.egg-info/top_level.txt
