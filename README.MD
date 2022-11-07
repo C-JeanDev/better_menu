@@ -1,4 +1,4 @@
-# Better Menu
+# Better Menu 
 better_menu is a [Python](https://www.python.org/) library for creating simple but cool menu(s) very fastly.
 
 # Installation 
