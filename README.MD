@@ -3,7 +3,7 @@ better_menu is a [Python](https://www.python.org/) library for creating simple b
 
 # Installation 
 Use the package manager [pip](https://pip.pypa.io/en/stable) to install Pydeas
-```bash
+```bash 
 pip install better_menu
 ```
 
