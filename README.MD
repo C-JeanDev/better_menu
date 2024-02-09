@@ -48,7 +48,7 @@ m = {
 
 menu = Menu(m)
 menu.title('Title')
-menu.subtitle('Subitle')
+menu.subtitle('Subtitle')
 menu.init()
 ```
 
