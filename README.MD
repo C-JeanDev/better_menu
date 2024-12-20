@@ -9,6 +9,7 @@ pip install better_menu
 
 
 ## Get Started
+##### Make sure you've installed getch via pip
 #### For an example of the final output check
 ![img](menu.png)
 
